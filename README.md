@@ -1,7 +1,3 @@
-Here is a tailored README for your repository based on the paper you provided:
-
----
-
 # Reproducing Results from _"Diagnostic Reasoning Prompts Reveal the Potential for Large Language Model Interpretability in Medicine"_
 
 This repository contains code and resources to reproduce the experiments from the paper _"Diagnostic Reasoning Prompts Reveal the Potential for Large Language Model Interpretability in Medicine"_ by Thomas Savage et al., published in **npj Digital Medicine (2024)**. The study evaluates whether large language models (LLMs) like GPT-4 can effectively mimic clinical reasoning processes, offering interpretable outputs for medical diagnostics.
@@ -79,7 +75,3 @@ your-repo-name/
 ## Contributions
 
 Feel free to open issues or submit pull requests to improve this project.
-
----
-
-If you need further refinements or additional sections, let me know!
