@@ -27,7 +27,6 @@ dataclasses-json==0.6.7
 datasets==3.1.0
 debugpy==1.8.8
 decorator==5.1.1
-decouple==0.0.7
 Deprecated==1.2.14
 dill==0.3.8
 dirtyjson==1.0.8
@@ -56,7 +55,7 @@ humanfriendly==10.0
 idna==3.10
 importlib_metadata==8.5.0
 importlib_resources==6.4.5
-instructor==1.6.3
+instructor
 ipykernel==6.29.5
 ipython==8.29.0
 jedi==0.19.1
@@ -148,6 +147,7 @@ pypdf==4.3.1
 PyPika==0.48.9
 pyproject_hooks==1.2.0
 python-dateutil==2.9.0.post0
+python-decouple==3.8
 python-dotenv==1.0.1
 pytz==2024.2
 PyYAML==6.0.2

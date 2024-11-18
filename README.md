@@ -26,7 +26,11 @@ This project aims to:
 ### Prerequisites
 
 - Python >= 3.10
-- Recommended: Virtual environment using `venv` or `conda`.
+- Recommended: Virtual environment using `venv`.
+- ```bash
+    python -m venv venv
+    source venv/bin/activate
+  ```
 - Install the required Python dependencies:
   ```bash
   pip install -r requirements.txt
