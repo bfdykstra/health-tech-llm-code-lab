@@ -36,12 +36,11 @@ This project aims to:
   pip install -r requirements.txt
   ```
 
-### Data Download
+### Data
 
-1. Access the dataset from the [Google Drive link](https://drive.google.com/drive/u/1/folders/1mDQUZ4RhyROSEycVFN_c4uyP36oyMRSe).
-2. Place the downloaded files in the `data/` directory.
+The original data is from the study and can be found at [Google Drive link](https://drive.google.com/drive/u/1/folders/1mDQUZ4RhyROSEycVFN_c4uyP36oyMRSe).
 
----
+## The data directory however has the cleaned and properly encoded datasets
 
 ## How to Run
 
@@ -56,21 +55,9 @@ This project aims to:
 
 ---
 
-## Repository Structure
-
-```
-your-repo-name/
-├── data/             # Datasets (download from Google Drive)
-├── notebooks/        # Jupyter notebooks for detailed analysis
-├── results/          # Output metrics, plots, and generated responses
-├── src/              # Core scripts for experiments
-├── requirements.txt  # Python dependencies
-└── README.md         # Documentation
-```
-
----
-
 ## References
+
+A ton of the code in `lib` is forked from the Kotaemon project at https://github.com/Cinnamon/kotaemon/
 
 - Savage, T., Nayak, A., Gallo, R., Rangan, E., & Chen, J. H. (2024). Diagnostic reasoning prompts reveal the potential for large language model interpretability in medicine. _npj Digital Medicine, 7_, 20. [DOI:10.1038/s41746-024-01010-1](https://doi.org/10.1038/s41746-024-01010-1)
 
