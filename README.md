@@ -42,19 +42,6 @@ The original data is from the study and can be found at [Google Drive link](http
 
 ## The data directory however has the cleaned and properly encoded datasets
 
-## How to Run
-
-1. Navigate to the repository's root directory:
-   ```bash
-   cd your-repo-name
-   ```
-
-### Expected Outputs
-
-- Key metrics, comparison tables, and visualizations will be saved in the `results/` directory.
-
----
-
 ## References
 
 A ton of the code in `lib` is forked from the Kotaemon project at https://github.com/Cinnamon/kotaemon/
