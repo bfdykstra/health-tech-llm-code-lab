@@ -19,6 +19,10 @@ This project aims to:
 
 ## Contents
 
+`explore_data.ipynb` Looks at the data in the MedQA dataset and does a small amount of preprocessing.
+
+`prompt_engineering.ipynb` Explores a simple evaluation strategy and is a good place to start experimenting with different prompts
+
 ---
 
 ## Setup Instructions
